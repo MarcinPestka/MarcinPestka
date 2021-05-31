@@ -10,7 +10,10 @@ Hi, I’m @MarcinPestka :smile:
 
 
 
-:bulb:
+:bulb: I'm very excited to become a fully fledged software engineer
+
+
+<br>
 
 
 
