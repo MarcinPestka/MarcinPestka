@@ -6,7 +6,7 @@ Hi, I’m @MarcinPestka :smile:
 :desktop_computer: Looking forward to start an internship. 
 
 
-:keyboard:	Currently learning: __*C#, Java, Html, JavaScript, Swift,  PhP and SQL*__.
+:keyboard:	Currently learning: __*C#, JavaScript and Database tech*__.
 
 
 
