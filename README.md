@@ -1,20 +1,22 @@
-Hi, I’m @MarcinPestka :smile: 
-<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto+monopaspace&pause=1000&color=0066CC&width=435&lines=Hi%2C+I'm+Marcin)](https://git.io/typing-svg)
 
 :open_book: I'm currently studying Computer science at Uniwerystet Gdański in Poland. 
 
-:desktop_computer: Looking forward to start an internship. 
+## Technology I use
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,ts,js,html,css,git,visualstudio,vscode)](https://skillicons.dev)
 
+## What drives me
+:bulb: Making apps I develop as user friendly as possilbe
 
-:keyboard:	Currently learning: __*C#, JavaScript and Database tech*__.
+:gear: Developing apps that make life easier
 
-
-
-:bulb: I'm very excited to become a fully fledged software engineer
+:desktop_computer: Writing high quality, clean code
 
 
 <br>
 
+## My most recent project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcinpestka&repo=portfolioapp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-:envelope_with_arrow:	Write me an email: pestka.m.j@gmail.com
+## Contact me 
+Write me an email: ``mailto:`` pestka.m.j@gmail.com
