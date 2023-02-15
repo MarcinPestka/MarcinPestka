@@ -16,7 +16,8 @@
 <br>
 
 ## My most recent project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcinpestka&repo=portfolioapp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcinpestka&repo=portfolioapp)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contact me 
 Write me an email: ``mailto:`` pestka.m.j@gmail.com
