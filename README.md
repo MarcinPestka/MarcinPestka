@@ -3,7 +3,7 @@
 :open_book: I'm currently studying Computer science at Uniwerystet Gdański in Poland and working full-time as a Junior Software Engineer. 
 
 ## Technology I use
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,ts,azure,git,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,angular,ts,azure,git,visualstudio,vscode)](https://skillicons.dev)
 
 ## What drives me
 :bulb: Making apps I develop as user friendly as possilbe
@@ -16,7 +16,7 @@
 <br>
 
 ## My most recent project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcinpestka&repo=portfolioapp)](https://github.com/marcinpestka/portfolioapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcinpestka&repo=personal-blog)](https://github.com/marcinpestka/personal-blog)
 
 
 ## Contact me 
